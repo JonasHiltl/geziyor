@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/JonasHiltl/geziyor/internal"
+	"github.com/jonashiltl/geziyor/internal"
 )
 
 // CSV exports response data as CSV streaming file

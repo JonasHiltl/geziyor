@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/JonasHiltl/geziyor/cache/memorycache"
+	"github.com/jonashiltl/geziyor/cache/memorycache"
 )
 
 var s struct {

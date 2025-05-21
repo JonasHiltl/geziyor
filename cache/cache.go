@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/JonasHiltl/geziyor/cache/memorycache"
+	"github.com/jonashiltl/geziyor/cache/memorycache"
 )
 
 type Policy int

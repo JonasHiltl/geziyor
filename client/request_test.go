@@ -7,7 +7,7 @@ import (
 )
 
 func TestMeta(t *testing.T) {
-	req, err := NewRequest("GET", "https://github.com/JonasHiltl/geziyor", nil)
+	req, err := NewRequest("GET", "https://github.com/jonashiltl/geziyor", nil)
 	assert.NoError(t, err)
 	req.Meta["key"] = "value"
 

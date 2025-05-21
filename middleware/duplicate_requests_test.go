@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/JonasHiltl/geziyor/client"
+	"github.com/jonashiltl/geziyor/client"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,4 +1,4 @@
-module github.com/JonasHiltl/geziyor
+module github.com/jonashiltl/geziyor
 
 go 1.15
 

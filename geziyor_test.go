@@ -14,16 +14,16 @@ import (
 	"github.com/chromedp/cdproto/dom"
 	"github.com/chromedp/chromedp"
 
-	"github.com/JonasHiltl/geziyor"
-	"github.com/JonasHiltl/geziyor/cache"
-	"github.com/JonasHiltl/geziyor/cache/diskcache"
-	"github.com/JonasHiltl/geziyor/client"
-	"github.com/JonasHiltl/geziyor/export"
-	"github.com/JonasHiltl/geziyor/internal"
-	"github.com/JonasHiltl/geziyor/metrics"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/elazarl/goproxy"
 	"github.com/fortytw2/leaktest"
+	"github.com/jonashiltl/geziyor"
+	"github.com/jonashiltl/geziyor/cache"
+	"github.com/jonashiltl/geziyor/cache/diskcache"
+	"github.com/jonashiltl/geziyor/client"
+	"github.com/jonashiltl/geziyor/export"
+	"github.com/jonashiltl/geziyor/internal"
+	"github.com/jonashiltl/geziyor/metrics"
 	"github.com/stretchr/testify/assert"
 )
 

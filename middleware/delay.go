@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/JonasHiltl/geziyor/client"
+	"github.com/jonashiltl/geziyor/client"
 )
 
 // delay delays requests

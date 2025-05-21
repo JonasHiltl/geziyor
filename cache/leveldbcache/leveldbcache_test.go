@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/JonasHiltl/geziyor/cache"
+	"github.com/jonashiltl/geziyor/cache"
 )
 
 func TestDiskCache(t *testing.T) {

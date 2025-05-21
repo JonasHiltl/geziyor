@@ -4,9 +4,9 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/JonasHiltl/geziyor/client"
-	"github.com/JonasHiltl/geziyor/internal"
-	"github.com/JonasHiltl/geziyor/metrics"
+	"github.com/jonashiltl/geziyor/client"
+	"github.com/jonashiltl/geziyor/internal"
+	"github.com/jonashiltl/geziyor/metrics"
 	"github.com/temoto/robotstxt"
 )
 

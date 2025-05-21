@@ -3,8 +3,8 @@ package middleware
 import (
 	"sync"
 
-	"github.com/JonasHiltl/geziyor/client"
-	"github.com/JonasHiltl/geziyor/internal"
+	"github.com/jonashiltl/geziyor/client"
+	"github.com/jonashiltl/geziyor/internal"
 )
 
 // DuplicateRequests checks for already visited URLs

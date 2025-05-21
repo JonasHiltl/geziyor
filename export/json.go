@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/JonasHiltl/geziyor/internal"
+	"github.com/jonashiltl/geziyor/internal"
 )
 
 // JSONLine exports response data as JSON streaming file

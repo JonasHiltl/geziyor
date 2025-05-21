@@ -5,12 +5,12 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/JonasHiltl/geziyor/cache"
-	"github.com/JonasHiltl/geziyor/client"
-	"github.com/JonasHiltl/geziyor/export"
-	"github.com/JonasHiltl/geziyor/metrics"
-	"github.com/JonasHiltl/geziyor/middleware"
 	"github.com/chromedp/chromedp"
+	"github.com/jonashiltl/geziyor/cache"
+	"github.com/jonashiltl/geziyor/client"
+	"github.com/jonashiltl/geziyor/export"
+	"github.com/jonashiltl/geziyor/metrics"
+	"github.com/jonashiltl/geziyor/middleware"
 )
 
 // Options is custom options type for Geziyor
