@@ -1,10 +1,11 @@
 package diskcache
 
 import (
-	"github.com/geziyor/geziyor/cache"
 	"io/ioutil"
 	"os"
 	"testing"
+
+	"github.com/JonasHiltl/geziyor/cache"
 )
 
 func TestDiskCache(t *testing.T) {

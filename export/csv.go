@@ -3,10 +3,11 @@ package export
 import (
 	"encoding/csv"
 	"fmt"
-	"github.com/geziyor/geziyor/internal"
 	"os"
 	"reflect"
 	"sort"
+
+	"github.com/JonasHiltl/geziyor/internal"
 )
 
 // CSV exports response data as CSV streaming file

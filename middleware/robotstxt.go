@@ -1,12 +1,13 @@
 package middleware
 
 import (
-	"github.com/geziyor/geziyor/client"
-	"github.com/geziyor/geziyor/internal"
-	"github.com/geziyor/geziyor/metrics"
-	"github.com/temoto/robotstxt"
 	"strconv"
 	"sync"
+
+	"github.com/JonasHiltl/geziyor/client"
+	"github.com/JonasHiltl/geziyor/internal"
+	"github.com/JonasHiltl/geziyor/metrics"
+	"github.com/temoto/robotstxt"
 )
 
 // RobotsTxt middleware filters out requests forbidden by the robots.txt exclusion standard.

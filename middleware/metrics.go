@@ -1,9 +1,10 @@
 package middleware
 
 import (
-	"github.com/geziyor/geziyor/client"
-	"github.com/geziyor/geziyor/metrics"
 	"strconv"
+
+	"github.com/JonasHiltl/geziyor/client"
+	"github.com/JonasHiltl/geziyor/metrics"
 )
 
 // Metrics sets stats for request and responses
